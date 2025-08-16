@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+virtualenv/
